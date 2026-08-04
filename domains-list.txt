@@ -88,5 +88,6 @@ anthropic.com
 coursera.org
 amazonaws.com
 cloudfront.net
+cdn.cloudflare.net
 amazon.com
 dualingo.com
