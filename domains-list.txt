@@ -86,3 +86,5 @@ claude.ai
 claude.com
 anthropic.com
 coursera.org
+amazonaws.com
+cloudfront.net
