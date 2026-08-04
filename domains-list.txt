@@ -89,3 +89,4 @@ coursera.org
 amazonaws.com
 cloudfront.net
 amazon.com
+dualingo.com
