@@ -83,4 +83,6 @@ usercontent.dev
 tgram.org
 torg.org
 claude.ai
+claude.com
 anthropic.com
+coursera.org
