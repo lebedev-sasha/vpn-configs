@@ -88,3 +88,4 @@ anthropic.com
 coursera.org
 amazonaws.com
 cloudfront.net
+amazon.com
