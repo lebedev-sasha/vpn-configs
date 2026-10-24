@@ -106,3 +106,8 @@ discordmerch.com
 discord-activities.com
 discord.app
 discord.io
+gemini.google.com
+aistudio.google.com
+generativelanguage.googleapis.com
+alkalimining-pa.googleapis.com
+proactivebackend-pa.googleapis.com
