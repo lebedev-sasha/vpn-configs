@@ -113,3 +113,4 @@ googleapis.com
 gstatic.com
 googleusercontent.com
 google.com
+aistudiocdn.com
