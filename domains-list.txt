@@ -12,3 +12,5 @@ cdn-telegram.org
 graph.org
 telegram.space
 amnezia.org
+openai.com
+chatgpt.com
