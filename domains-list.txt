@@ -84,6 +84,9 @@ tgram.org
 torg.org
 claude.ai
 claude.com
+platform.claude.com
+api.anthropic.com
+claudeusercontent.com
 anthropic.com
 coursera.org
 amazonaws.com
