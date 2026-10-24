@@ -111,6 +111,10 @@ discord.app
 discord.io
 gemini.google.com
 aistudio.google.com
+googleapis.com
+gstatic.com
+googleusercontent.com
+google.com
 generativelanguage.googleapis.com
 alkalimining-pa.googleapis.com
 proactivebackend-pa.googleapis.com
