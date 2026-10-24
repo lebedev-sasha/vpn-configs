@@ -11,3 +11,4 @@ tx.me
 cdn-telegram.org
 graph.org
 telegram.space
+amnezia.org
